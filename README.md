@@ -22,7 +22,7 @@ From the root of the toptracker updater directory, do
 This should start a sandboxed python3 env with pip3 installed 
 Do a `python --version` and `pip --version` to check that you are using Python 3.
 
-6 Install `requests` library
+6. Install `requests` library
 Invoke the following command to install the library
 `pip install requests`
 
