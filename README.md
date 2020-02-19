@@ -27,8 +27,7 @@ Invoke the following command to install the library
 `pip install requests`
 
 7. Make sure that your timesheet is filled, and downloaded `as csv` to your local machine, on disk.
-Using the Script
-===================
+
 a) From the root of the cloned directory,
 run the `update-activity` script.
 
